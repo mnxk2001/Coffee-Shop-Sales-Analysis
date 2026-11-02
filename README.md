@@ -77,7 +77,7 @@ Identified products that were frequently purchased together to explore potential
 |---|---|
 | [Report.pdf](./Report.pdf) | Report containing the analysis and findings. |
 | [Draft.pbix](./Draft.pbix) | Power BI file containing custom visualizations used in the analysis and included in the report. |
-| [Coffee_Shop_Sales_Process.ipynb](./Coffee_Shop_Sales_Process.ipynb) | Jupyter Notebook documenting Python data processing steps. |
+| [Coffee_Shop_Sales_Process.ipynb](./Coffee_Shop_Sales_Process.ipynb) | Google Colab documenting Python data processing steps. |
 | [Coffee_shop_process.sql](./Coffee_shop_process.sql) | SQL script documenting data processing steps. |
 
 ## Contact
